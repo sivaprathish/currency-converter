@@ -3,11 +3,11 @@
 To convert the value of one currency into other
 I done it two method
 - one type was normal java
--other one is java using swing,Awt,awt.event
+- other one is java using swing,Awt,awt.event
 ---
 ![image](https://user-images.githubusercontent.com/108066641/180487589-e2e62a41-d992-456c-ad41-471c9c528793.png)
 ---
-its other one is java using swing,Awt,awt.event
+its other one  java using swing,Awt,awt.event
 ---
 ![image](https://user-images.githubusercontent.com/108066641/180487756-26007056-6fee-4ed8-915c-37de9ddbee12.png)
 -
